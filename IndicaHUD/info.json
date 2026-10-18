@@ -1,0 +1,19 @@
+{
+    "name": "IndicaHUD",
+    "author": "IndicaBunny",
+    "version": "1.0",
+    "homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/<id>",
+    "source": "https://github.com/MaddyMarv/IndicaHUD",
+    "funding": {
+        "kofi": "https://ko-fi.com/indicabunny"
+    },
+    "description": "IndicaBunny the smoking bnuuy's offical HUD for darktide.",
+    "dependencies": {
+        "required": [],
+        "self_after": [
+            "hud_studio"
+        ],
+        "self_before": []
+    },
+    "localization": {}
+}
