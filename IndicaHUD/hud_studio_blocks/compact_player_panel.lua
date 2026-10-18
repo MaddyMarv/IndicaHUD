@@ -16,15 +16,6 @@ return {
 		},
 	},
 	library_label = "Compact Player Panel",
-	read_from = {
-		subject = "player_2",
-		offer = {
-			"player_2",
-			"player_3",
-			"player_4",
-			"player_spectated",
-		},
-	},
 	localizations = {},
 	member_id = "compact_player_panel",
 	name = "compact_player_panel",

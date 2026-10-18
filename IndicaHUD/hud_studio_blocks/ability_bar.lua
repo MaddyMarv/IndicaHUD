@@ -1,10 +1,12 @@
 return {
-	folder = "Main hud",
 	grid_cols = 0,
 	grid_rows = 0,
 	label = "Ability Bar",
 	summary = "Ability cooldown bar with segment support.",
 	library_label = "Ability Bar",
+	read_from = {
+		offer = false,
+	},
 	localizations = {},
 	member_id = "ability_bar",
 	name = "ability_bar",
@@ -278,7 +280,7 @@ text = s and tostring(s.charges) or \"\"",
 	},
 	offset = {
 		0,
-		-1,
+		-3,
 	},
 	opacity = {
 		kind = "thresholds",

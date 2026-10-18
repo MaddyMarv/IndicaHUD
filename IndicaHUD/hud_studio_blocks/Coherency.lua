@@ -1,5 +1,4 @@
 return {
-	folder = "Main hud",
 	gamemodes = {
 		meatgrinder = true,
 		mission = true,
@@ -9,6 +8,9 @@ return {
 	label = "Coherency Aura",
 	summary = "Shows who is in your coherency aura.",
 	library_label = "Coherency Aura",
+	read_from = {
+		offer = false,
+	},
 	localizations = {},
 	member_id = "coherency",
 	name = "coherency",
