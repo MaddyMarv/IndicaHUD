@@ -5,10 +5,11 @@ return {
 	grid_cols = 0,
 	grid_rows = 0,
 	label = "Compact Player Panel",
-	summary = "Compact team panel with health, toughness, and stimms. Pick player 2, 3, 4 or spectator.",
+	summary = "Compact player panel with health, toughness, and stimms. Pick any player slot or spectator.",
 	read_from = {
 		subject = "player_2",
 		offer = {
+			"player_1",
 			"player_2",
 			"player_3",
 			"player_4",

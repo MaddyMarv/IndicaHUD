@@ -6,11 +6,12 @@ return {
 	grid_cols = 0,
 	grid_rows = 0,
 	label = "Hub Teammate",
-	summary = "Mourningstar hub portrait for a teammate. Pick player 2, 3, 4 or spectator.",
+	summary = "Mourningstar hub portrait. Pick any player slot or spectator.",
 	library_label = "Hub Teammate",
 	read_from = {
 		subject = "player_2",
 		offer = {
+			"player_1",
 			"player_2",
 			"player_3",
 			"player_4",
