@@ -15,6 +15,6 @@ return {
 		en = "Show instructions for using IndicaHUD with HUD Studio.",
 	},
 	msg_chat_help = {
-		en = "IndicaHUD loaded! Open HUD Studio (press your Toggle menu hotkey) -> Library -> IndicaHUD to add blocks or folder presets to your screen.",
+		en = "IndicaHUD loaded! Open HUD Studio (press your Toggle menu hotkey) -> Library -> IndicaHUD to add the blocks to your screen.",
 	},
 }
