@@ -7,7 +7,7 @@
     "funding": {
         "kofi": "https://ko-fi.com/indicabunny"
     },
-    "description": "IndicaBunny the smoking bnuuy's offical HUD for darktide.",
+    "description": "IndicaBunny the smoking bnuuy's official HUD for Darktide.",
     "dependencies": {
         "required": [],
         "self_after": [
