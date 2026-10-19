@@ -3,7 +3,7 @@ return {
 		en = "IndicaHUD",
 	},
 	mod_description = {
-		en = "IndicaBunny the smoking bnuuy's offical HUD for darktide.",
+		en = "IndicaBunny the smoking bnuuy's official HUD for Darktide.",
 	},
 	tab_general = {
 		en = "General",
