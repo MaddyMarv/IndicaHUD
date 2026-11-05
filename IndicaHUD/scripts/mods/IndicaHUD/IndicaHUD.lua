@@ -1,21 +1,17 @@
 local mod = get_mod("IndicaHUD")
 
-local show_welcome_msg = mod:get("show_welcome_msg")
-
-mod.on_setting_changed = function(setting_id)
-	if setting_id == "show_welcome_msg" then
-		show_welcome_msg = mod:get("show_welcome_msg")
-	end
+local function show_help()
+	mod:echo(mod:localize("msg_chat_help"))
 end
 
-mod:command("indicahud", mod:localize("command_indicahud_description"), function()
-	mod:echo(mod:localize("msg_chat_help"))
-end)
+mod:command("indicahud", mod:localize("command_indicahud_description"), show_help)
 
--- StateGameplay is entered on every load-in (hub and missions). DMF holds the echo until chat exists.
+-- One-time setup hint on the first load-in. The flag lives in the user's mod settings, which DMF
+-- writes to disk right after every game state change. DMF holds the echo until chat exists.
 mod.on_game_state_changed = function(status, state_name)
-	if show_welcome_msg and status == "enter" and state_name == "StateGameplay" and mod:is_enabled() then
-		mod:echo(mod:localize("msg_chat_help"))
+	if status == "enter" and state_name == "StateGameplay" and mod:is_enabled() and not mod:get("setup_hint_shown") then
+		mod:set("setup_hint_shown", true)
+		show_help()
 	end
 end
 

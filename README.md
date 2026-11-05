@@ -3,24 +3,49 @@
 
 IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263). Library previews show when SimpleAssets is installed.
 
-**Works with:** The Ability Bar needs [Combat Ability Timers](https://www.nexusmods.com/warhammer40kdarktide/mods/673). Optional: [Player State Indicators](https://www.nexusmods.com/warhammer40kdarktide/mods/635) adds status icons (downed, netted, pounced and more) to the player panels, and State Your Name formats the names on the hub portraits.
+**Works with:** The Ability Bar needs [Combat Ability Timers](https://www.nexusmods.com/warhammer40kdarktide/mods/673). Optional: [Player State Indicators](https://www.nexusmods.com/warhammer40kdarktide/mods/635) adds status icons (downed, netted, pounced and more) to the player panels, and [State Your Name](https://www.nexusmods.com/warhammer40kdarktide/mods/1068) formats the names on the hub portraits.
 
 **The full look:** IndicaHUD works on its own, but my screenshots also use the mods below. Without them, the full look won't be 100% the same.
 
 <details>
 <summary><b>Mods used for the full look</b></summary>
 
-- [Transparent Bot Hud](https://www.nexusmods.com/warhammer40kdarktide/mods/990)
-- [Enemy Outlines](https://www.nexusmods.com/warhammer40kdarktide/mods/1019)
-- [Markers Improved All-in-one](https://www.nexusmods.com/warhammer40kdarktide/mods/447)
-- [Objective Tracker](https://www.nexusmods.com/warhammer40kdarktide/mods/1035)
-- [DynamicCrosshair](https://www.nexusmods.com/warhammer40kdarktide/mods/110)
-- [Numeric UI](https://www.nexusmods.com/warhammer40kdarktide/mods/14)
-- [HUD Tweaker](https://www.nexusmods.com/warhammer40kdarktide/mods/154)
+**HUD & Layout**
 - [Custom HUD](https://www.nexusmods.com/warhammer40kdarktide/mods/1091)
+- [HUD Tweaker](https://www.nexusmods.com/warhammer40kdarktide/mods/154)
+- [Numeric UI](https://www.nexusmods.com/warhammer40kdarktide/mods/14)
 - [Better Buff Management](https://www.nexusmods.com/warhammer40kdarktide/mods/937)
-- [Broker Stim Timer (Hive Scum Stim Timer)](https://www.nexusmods.com/warhammer40kdarktide/mods/654)
+- [BuffOut](https://www.nexusmods.com/warhammer40kdarktide/mods/1454)
+- [Transparent Bot Hud](https://www.nexusmods.com/warhammer40kdarktide/mods/990)
+- [Color Selection](https://www.nexusmods.com/warhammer40kdarktide/mods/631)
+- [Better Nameplate](https://www.nexusmods.com/warhammer40kdarktide/mods/827)
+- [Stamina Visibility](https://www.nexusmods.com/warhammer40kdarktide/mods/57)
+- [Recovery Meters](https://www.nexusmods.com/warhammer40kdarktide/mods/597)
+- [Disable Screen Effects](https://www.nexusmods.com/warhammer40kdarktide/mods/17)
+
+**Combat Info**
+- [Kill Tracker](https://www.nexusmods.com/warhammer40kdarktide/mods/143)
+- [Killfeed Improvements](https://www.nexusmods.com/warhammer40kdarktide/mods/70)
 - [Peril Simplified](https://www.nexusmods.com/warhammer40kdarktide/mods/1367)
+- [Broker Stim Timer (Hive Scum Stim Timer)](https://www.nexusmods.com/warhammer40kdarktide/mods/654)
+- [Objective Tracker](https://www.nexusmods.com/warhammer40kdarktide/mods/1035)
+- [Loot Dopamine](https://www.nexusmods.com/warhammer40kdarktide/mods/652)
+- [Servo-Skull Alerts](https://www.nexusmods.com/warhammer40kdarktide/mods/963)
+- [Boss Timer](https://www.nexusmods.com/warhammer40kdarktide/mods/525)
+- [Recolor Boss Health Bars](https://www.nexusmods.com/warhammer40kdarktide/mods/314)
+
+**Enemies & Markers**
+- [Enemies Improved](https://www.nexusmods.com/warhammer40kdarktide/mods/809)
+- [Enemy Outlines](https://www.nexusmods.com/warhammer40kdarktide/mods/1019)
+- Specials Tracker
+- [Markers Improved All-in-one](https://www.nexusmods.com/warhammer40kdarktide/mods/447)
+
+**Crosshair & Outlines**
+- [DynamicCrosshair](https://www.nexusmods.com/warhammer40kdarktide/mods/110)
+- [Player Outlines](https://www.nexusmods.com/warhammer40kdarktide/mods/39)
+
+**Social**
+- [Vox Chat](https://www.nexusmods.com/warhammer40kdarktide/mods/1030)
 
 Plus Combat Ability Timers, Player State Indicators and State Your Name from above.
 </details>
@@ -45,12 +70,8 @@ The **Read From** section selects which player's information is being used in th
 Take a look at [HUD Studio's Nexus page](https://www.nexusmods.com/warhammer40kdarktide/mods/1263) for an explanation of how the mod works.
 
 <details>
-<summary><b>Mod Settings / Commands</b></summary>
+<summary><b>Commands</b></summary>
 
-**General**
-- Show chat hint on load-in
-
-**Commands:**
 - `/indicahud` - Show instructions for using IndicaHUD with HUD Studio.
 </details>
 
