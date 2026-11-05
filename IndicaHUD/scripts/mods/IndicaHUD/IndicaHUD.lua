@@ -6,8 +6,6 @@ end
 
 mod:command("indicahud", mod:localize("command_indicahud_description"), show_help)
 
--- One-time setup hint on the first load-in. The flag lives in the user's mod settings, which DMF
--- writes to disk right after every game state change. DMF holds the echo until chat exists.
 mod.on_game_state_changed = function(status, state_name)
 	if status == "enter" and state_name == "StateGameplay" and mod:is_enabled() and not mod:get("setup_hint_shown") then
 		mod:set("setup_hint_shown", true)
