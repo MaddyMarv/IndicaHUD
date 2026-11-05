@@ -33,7 +33,7 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 [b]Enemies & Markers[/b]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/809]Enemies Improved[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1019]Enemy Outlines[/url]
-- Specials Tracker
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/274]Specials Tracker[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/447]Markers Improved All-in-one[/url]
 
 [b]Crosshair & Outlines[/b]
