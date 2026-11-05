@@ -1,7 +1,7 @@
 ### [IndicaHUD](https://www.nexusmods.com/warhammer40kdarktide/mods/<id>)
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b3e762b1-c941-413f-a80f-275eaa345a7e" />
 
-IndicaBunny the smoking bnuuy's official HUD for Darktide! IndicaHUD adds a library of ready-made blocks to [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263): a full main HUD (health, toughness, ability bar, ammo and peril, coherency and a toughness shield), compact teammate panels, and Mourningstar hub portraits.
+IndicaBunny the smoking bnuuy's official HUD for Darktide.
 
 #### Requirements
 - [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263) - required.
