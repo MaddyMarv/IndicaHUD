@@ -1,30 +1,41 @@
-IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio[/url].
+IndicaBunny the smoking bnuuy's official HUD for Darktide! IndicaHUD adds a library of ready-made blocks to [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio[/url]: a full main HUD (health, toughness, ability bar, ammo and peril, coherency and a toughness shield), compact teammate panels, and Mourningstar hub portraits.
 
-[b]Works with:[/b] The Ability Bar needs [url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url]. Kinda Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] adds status icons (downed, netted, pounced and more) to the player panels, and [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1068]State Your Name[/url] formats the names on the hub portraits.
-
-Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management 2[/url] for the nice buff bar in the middle.
-
-[heading]Installation Instructions[/heading]
-HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b]
-
-[i]The steps below assume that you installed HUD Studio.[/i]
-
-Step by step:
-[list=1]
-[*]In-game, go to [b]Settings > Mod Settings > HUD Studio[/b][/*]
-[*]Bind a key to the [b]Toggle Editor[/b] setting[/*]
-[*]Close the settings, and [b]in the Meatgrinder / Hub[/b], press the key you just bound to open the editor[/*]
-[*]In the [b]Blocks[/b] panel that just opened, at the top, click the [b]Library[/b] button[/*]
-[*]On the left-hand side of the library, [b]click on IndicaHUD[/b][/*]
+[heading]Requirements[/heading]
+[list]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio[/url] - required.[/*]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url] - needed for the Ability Bar.[/*]
+[/list]
+[b]Recommended:[/b]
+[list]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] - adds status icons (downed, netted, pounced and more) to the player panels.[/*]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/1068]State Your Name[/url] - formats the names on the hub portraits.[/*]
+[/list]
+[b]Pairs well with:[/b]
+[list]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management 2[/url] - for the buff bar in the middle of the screen.[/*]
+[*][url=https://www.nexusmods.com/warhammer40kdarktide/mods/654]BrokerStimTimer[/url] - for the Hive Scum stimm timer.[/*]
 [/list]
 
-From there, you will see a listing of this mod's HUD elements - have a read at what's available, pick and choose which ones you like, and add them to your screen (Canvas) by clicking on 'Add To Canvas'.
+[heading]Installation Instructions[/heading]
+HUD Studio mods don't add anything to your screen by themselves. You pick the elements you want from HUD Studio's library, and each element is called a [b]Block[/b].
 
-The [b]Read From[/b] section selects which player's information is being used in the selected block. For a complete set of player panels for example, you would select Player 1 -> Add to Canvas, then Player 2 -> Add to Canvas, etc. until all player slots are filled.
+[i]The steps below assume you have HUD Studio installed.[/i]
 
-Take a look at [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio's Nexus page[/url] for an explanation of how the mod works.
+[list=1]
+[*]In-game, go to [b]Settings > Mod Settings > HUD Studio[/b].[/*]
+[*]Bind a key to the [b]Toggle Editor[/b] setting.[/*]
+[*]Close the settings, go to the [b]Meatgrinder or the Mourningstar[/b], and press that key to open the editor.[/*]
+[*]At the top of the [b]Blocks[/b] panel, click the [b]Library[/b] button.[/*]
+[*]On the left side of the library, click [b]IndicaHUD[/b].[/*]
+[/list]
+You'll see every block in the mod. Read through what's available, pick the ones you like, and click [b]Add To Canvas[/b] to put them on your screen.
 
-[b]Mod Settings / Commands:[/b]
-[spoiler][font=monospace]/indicahud[/font] - Show instructions for using IndicaHUD with HUD Studio.[/spoiler]
+[b]Full sets or single blocks:[/b] The [b]Full Set[/b] entries (Main HUD, Player Panels and Hub Portraits) add a whole section at once. The single blocks let you mix and match. On the Compact Player Panel and Hub Teammate blocks, [b]Read From[/b] picks which player the block shows: for your own set of player panels, add one with Player 2, another with Player 3, and so on until every slot is filled.
 
-[b]Links:[/b][url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+See [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio's Nexus page[/url] for more on how HUD Studio works.
+
+[b]Commands:[/b]
+- [font=monospace]/indicahud[/font] - Show these setup steps in chat.
+
+[b]Links:[/b]
+[url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
