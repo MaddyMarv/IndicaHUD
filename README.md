@@ -5,7 +5,7 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 
 **Works with:** The Ability Bar needs [Combat Ability Timers](https://www.nexusmods.com/warhammer40kdarktide/mods/673). Kinda Optional: [Player State Indicators](https://www.nexusmods.com/warhammer40kdarktide/mods/635) adds status icons (downed, netted, pounced and more) to the player panels, and [State Your Name](https://www.nexusmods.com/warhammer40kdarktide/mods/1068) formats the names on the hub portraits.
 
-optional optional: [Better Buff Management](https://www.nexusmods.com/warhammer40kdarktide/mods/239) for the nice buff bar in the middle. 
+Optional optional: [Better Buff Management](https://www.nexusmods.com/warhammer40kdarktide/mods/239) for the nice buff bar in the middle. 
 
 #### Installation Instructions
 
