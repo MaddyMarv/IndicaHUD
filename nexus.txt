@@ -1,5 +1,7 @@
 IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires HUD Studio. Library previews show when SimpleAssets is installed.
 
+[b]Works with:[/b] The Ability Bar needs [url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url]. Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] adds status icons (downed, netted, pounced and more) to the player panels, and State Your Name formats the names on the hub portraits.
+
 [b][size=4]Installation Instructions[/size][/b]
 
 HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b] 

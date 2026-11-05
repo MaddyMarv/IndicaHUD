@@ -5,7 +5,7 @@ return {
 	grid_cols = 0,
 	grid_rows = 0,
 	label = "Compact Player Panel",
-	summary = "Compact player panel with health, toughness, and stimms. Pick any player slot or spectator.",
+	summary = "Compact player panel with health, toughness, and stimms. Pick any player slot or spectator. Status icons (downed, netted, pounced and more) need Player State Indicators.",
 	read_from = {
 		subject = "player_2",
 		offer = {

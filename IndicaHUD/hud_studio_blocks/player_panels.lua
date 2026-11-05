@@ -4069,7 +4069,7 @@ end\
 		},
 	},
 	kind = "folder",
-	summary = "Full set of compact player panels for slots 2, 3, and 4.",
+	summary = "Full set of compact player panels for slots 2, 3, and 4. Status icons (downed, netted, pounced and more) need Player State Indicators.",
 	label = "Player Panels (Full Set)",
 	read_from = {
 		offer = false,
