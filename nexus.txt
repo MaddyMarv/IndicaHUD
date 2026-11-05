@@ -1,81 +1,30 @@
-IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires HUD Studio. Library previews show when SimpleAssets is installed.
+IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio[/url].
 
-[b]Works with:[/b] The Ability Bar needs [url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url]. Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] adds status icons (downed, netted, pounced and more) to the player panels, and [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1068]State Your Name[/url] formats the names on the hub portraits.
+[b]Works with:[/b] The Ability Bar needs [url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url]. Kinda Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] adds status icons (downed, netted, pounced and more) to the player panels, and [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1068]State Your Name[/url] formats the names on the hub portraits.
 
-[b]The full look:[/b] IndicaHUD works on its own, but my screenshots also use the mods below. Without them, the full look won't be 100% the same.
+Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management 2[/url] for the nice buff bar in the middle.
 
-[b]Mods used for the full look:[/b]
-[spoiler]
-[b]HUD & Layout[/b]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1091]Custom HUD[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/154]HUD Tweaker[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/14]Numeric UI[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1454]BuffOut[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/511]Better HUD Info View[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/990]Transparent Bot Hud[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/631]Color Selection[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/827]Better Nameplate[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/57]Stamina Visibility[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/597]Recovery Meters[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/17]Disable Screen Effects[/url]
-
-[b]Combat Info[/b]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/143]Kill Tracker[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/70]Killfeed Improvements[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/581]Player Deathfeed[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1126]Companion Killfeed[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/508]Captain KillFeed[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1367]Peril Simplified[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/654]Broker Stim Timer (Hive Scum Stim Timer)[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1035]Objective Tracker[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/652]Loot Dopamine[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/963]Servo-Skull Alerts[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/525]Boss Timer[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/314]Recolor Boss Health Bars[/url]
-
-[b]Enemies & Markers[/b]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/809]Enemies Improved[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1019]Enemy Outlines[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/274]Specials Tracker[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/447]Markers Improved All-in-one[/url]
-
-[b]Crosshair & Outlines[/b]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/110]DynamicCrosshair[/url]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/39]Player Outlines[/url]
-
-[b]Social[/b]
-- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1030]Vox Chat[/url]
-
-Also worth a mention: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/887]VT2 Scoreboard[/url] for the end-of-mission stats.
-
-Plus Combat Ability Timers, Player State Indicators and State Your Name from above.
-[/spoiler]
-
-[b][size=4]Installation Instructions[/size][/b]
-
-HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b] 
+[heading]Installation Instructions[/heading]
+HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b]
 
 [i]The steps below assume that you installed HUD Studio.[/i]
 
 Step by step:
 [list=1]
-[*]In-game, go to[b] Settings > Mod Settings > HUD Studio[/b][/*]
+[*]In-game, go to [b]Settings > Mod Settings > HUD Studio[/b][/*]
 [*]Bind a key to the [b]Toggle Editor[/b] setting[/*]
 [*]Close the settings, and [b]in the Meatgrinder / Hub[/b], press the key you just bound to open the editor[/*]
-[*]In the [b]Blocks [/b]panel that just opened, at the top, click the [b]Library[/b] button[/*]
+[*]In the [b]Blocks[/b] panel that just opened, at the top, click the [b]Library[/b] button[/*]
 [*]On the left-hand side of the library, [b]click on IndicaHUD[/b][/*]
 [/list]
+
 From there, you will see a listing of this mod's HUD elements - have a read at what's available, pick and choose which ones you like, and add them to your screen (Canvas) by clicking on 'Add To Canvas'.
 
-The [b]Read From [/b]section selects which player's information is being used in the selected block. For a complete set of player panels for example, you would select Player 1 -> Add to Canvas, then Player 2 -> Add to Canvas, etc. until all player slots are filled.
+The [b]Read From[/b] section selects which player's information is being used in the selected block. For a complete set of player panels for example, you would select Player 1 -> Add to Canvas, then Player 2 -> Add to Canvas, etc. until all player slots are filled.
 
 Take a look at [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio's Nexus page[/url] for an explanation of how the mod works.
 
-[b]Commands:[/b]
-[spoiler]
-- /indicahud - Show instructions for using IndicaHUD with HUD Studio.
-[/spoiler]
+[b]Mod Settings / Commands:[/b]
+[spoiler][font=monospace]/indicahud[/font] - Show instructions for using IndicaHUD with HUD Studio.[/spoiler]
 
-[b]Links:[/b]
-[url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+[b]Links:[/b][url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
