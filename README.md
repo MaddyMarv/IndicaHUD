@@ -1,11 +1,19 @@
 ### [IndicaHUD](https://www.nexusmods.com/warhammer40kdarktide/mods/<id>)
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b3e762b1-c941-413f-a80f-275eaa345a7e" />
 
-IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263).
+IndicaBunny the smoking bnuuy's official HUD for Darktide! IndicaHUD adds a library of ready-made blocks to [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263): a full main HUD (health, toughness, ability bar, ammo and peril, coherency and a toughness shield), compact teammate panels, and Mourningstar hub portraits.
 
-**Works with:** The Ability Bar needs [Combat Ability Timers](https://www.nexusmods.com/warhammer40kdarktide/mods/673). Kinda Optional: [Player State Indicators](https://www.nexusmods.com/warhammer40kdarktide/mods/635) adds status icons (downed, netted, pounced and more) to the player panels, and [State Your Name](https://www.nexusmods.com/warhammer40kdarktide/mods/1068) formats the names on the hub portraits.
+#### Requirements
+- [HUD Studio](https://www.nexusmods.com/warhammer40kdarktide/mods/1263) - required.
+- [Combat Ability Timers](https://www.nexusmods.com/warhammer40kdarktide/mods/673) - needed for the Ability Bar.
 
-Optional optional: [Better Buff Management 2](https://www.nexusmods.com/warhammer40kdarktide/mods/937) for the nice buff bar in the middle. 
+**Recommended:**
+- [Player State Indicators](https://www.nexusmods.com/warhammer40kdarktide/mods/635) - adds status icons (downed, netted, pounced and more) to the player panels.
+- [State Your Name](https://www.nexusmods.com/warhammer40kdarktide/mods/1068) - formats the names on the hub portraits.
+
+**Pairs well with:**
+- [Better Buff Management 2](https://www.nexusmods.com/warhammer40kdarktide/mods/937) - for the buff bar in the middle of the screen.
+- [BrokerStimTimer](https://www.nexusmods.com/warhammer40kdarktide/mods/654) - for the Hive Scum stimm timer.
 
 #### Installation Instructions
 
