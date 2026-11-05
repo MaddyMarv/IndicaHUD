@@ -18,6 +18,11 @@ return {
 		en = "Show instructions for using IndicaHUD with HUD Studio.",
 	},
 	msg_chat_help = {
-		en = "IndicaHUD loaded! Open HUD Studio (press your Toggle menu hotkey) -> Library -> IndicaHUD to add the blocks to your screen.",
+		en = "How to add IndicaHUD to your screen:\n"
+			.. "1. In-game, go to Settings > Mod Settings > HUD Studio\n"
+			.. "2. Bind a key to the Toggle Editor setting\n"
+			.. "3. Close the settings, and in the Meatgrinder / Hub, press the key you just bound to open the editor\n"
+			.. "4. In the Blocks panel that just opened, at the top, click the Library button\n"
+			.. "5. On the left-hand side of the library, click on IndicaHUD",
 	},
 }

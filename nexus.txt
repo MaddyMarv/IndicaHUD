@@ -22,12 +22,14 @@ The [b]Read From [/b]section selects which player's information is being used in
 
 Take a look at [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio's Nexus page[/url] for an explanation of how the mod works.
 
-[b]Options:[/b]
+[b]Mod Settings / Commands:[/b]
+[spoiler]
 [b]General[/b]
 - Show chat hint on load-in
 
 [b]Commands:[/b]
 - /indicahud - Show instructions for using IndicaHUD with HUD Studio.
+[/spoiler]
 
 [b]Links:[/b]
 [url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
