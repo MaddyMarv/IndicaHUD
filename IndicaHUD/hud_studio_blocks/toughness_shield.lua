@@ -10,8 +10,8 @@ return {
 	summary = "Toughness shield icon with low health and shield break alerts.",
 	library_label = "Toughness Shield",
 	localizations = {},
-	member_id = "tougness_shield",
-	name = "tougness_shield",
+	member_id = "toughness_shield",
+	name = "toughness_shield",
 	nodes = {
 		{
 			callbacks = {
@@ -242,7 +242,7 @@ return {
 		},
 		value = 1,
 	},
-	save_name = "tougness_shield",
+	save_name = "toughness_shield",
 	scale_anchor = "origin",
 	version = 4,
 	visible = {

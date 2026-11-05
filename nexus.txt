@@ -1,0 +1,31 @@
+IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of ready-made blocks to HUD Studio: a full main HUD (health, toughness, ability bar, ammo and peril, coherency, toughness shield), compact player panels, and Mourningstar hub portraits. Requires HUD Studio. Library previews show when SimpleAssets is installed.
+
+[b][size=4]Installation Instructions[/size][/b]
+
+HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b] 
+
+[i]The steps below assume that you installed HUD Studio.[/i]
+
+Step by step:
+[list=1]
+[*]In-game, go to[b] Settings > Mod Settings > HUD Studio[/b][/*]
+[*]Bind a key to the [b]Toggle Editor[/b] setting[/*]
+[*]Close the settings, and [b]in the Meatgrinder / Hub[/b], press the key you just bound to open the editor[/*]
+[*]In the [b]Blocks [/b]panel that just opened, at the top, click the [b]Library[/b] button[/*]
+[*]On the left-hand side of the library, [b]click on IndicaHUD[/b][/*]
+[/list]
+From there, you will see a listing of this mod's HUD elements - have a read at what's available, pick and choose which ones you like, and add them to your screen (Canvas) by clicking on 'Add To Canvas'.
+
+The [b]Read From [/b]section selects which player's information is being used in the selected block. For a complete set of player panels for example, you would select Player 1 -> Add to Canvas, then Player 2 -> Add to Canvas, etc. until all player slots are filled.
+
+Take a look at [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1263]HUD Studio's Nexus page[/url] for an explanation of how the mod works.
+
+[b]Options:[/b]
+[b]General[/b]
+- Show chat hint on load-in
+
+[b]Commands:[/b]
+- /indicahud - Show instructions for using IndicaHUD with HUD Studio.
+
+[b]Links:[/b]
+[url=https://github.com/MaddyMarv/IndicaHUD]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]

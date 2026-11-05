@@ -439,9 +439,9 @@ return {
 						align = "center_right",
 						color = {
 							255,
-							128,
-							128,
-							128,
+							235,
+							235,
+							235,
 						},
 						font_size = 14,
 						font_type = "proxima_nova_bold",
@@ -1729,6 +1729,11 @@ end\
 						},
 						font_size = 16,
 						font_type = "proxima_nova_bold",
+						segment_order = {
+							1,
+							2,
+							3,
+						},
 						shadow = true,
 						shrink_to_fit = true,
 						size = {
@@ -1788,9 +1793,9 @@ end\
 						align = "center_right",
 						color = {
 							255,
-							128,
-							128,
-							128,
+							235,
+							235,
+							235,
 						},
 						font_size = 14,
 						font_type = "proxima_nova_bold",
@@ -1809,6 +1814,7 @@ end\
 					type = "text",
 					values = {
 						mode = "fixed",
+						opacity = 1,
 						text = "Text",
 						value_mode = "chain",
 					},
@@ -3079,6 +3085,11 @@ end\
 						},
 						font_size = 16,
 						font_type = "proxima_nova_bold",
+						segment_order = {
+							1,
+							2,
+							3,
+						},
 						shadow = true,
 						shrink_to_fit = true,
 						size = {
@@ -3136,17 +3147,11 @@ end\
 					},
 					style = {
 						align = "center_right",
-						backing_color = {
-							0,
-							0,
-							0,
-							0,
-						},
 						color = {
 							255,
-							128,
-							128,
-							128,
+							235,
+							235,
+							235,
 						},
 						font_size = 14,
 						font_type = "proxima_nova_bold",
@@ -3165,6 +3170,7 @@ end\
 					type = "text",
 					values = {
 						mode = "fixed",
+						opacity = 1,
 						text = "Text",
 						value_mode = "chain",
 					},

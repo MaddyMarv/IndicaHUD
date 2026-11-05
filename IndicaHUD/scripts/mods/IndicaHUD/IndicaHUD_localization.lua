@@ -9,7 +9,10 @@ return {
 		en = "General",
 	},
 	show_welcome_msg = {
-		en = "Show chat hint on mission join",
+		en = "Show chat hint on load-in",
+	},
+	show_welcome_msg_description = {
+		en = "Prints a reminder of how to open the IndicaHUD blocks in HUD Studio each time you load into the hub or a mission.",
 	},
 	command_indicahud_description = {
 		en = "Show instructions for using IndicaHUD with HUD Studio.",

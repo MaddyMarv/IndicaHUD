@@ -439,9 +439,9 @@ return {
 				align = "center_right",
 				color = {
 					255,
-					128,
-					128,
-					128,
+					235,
+					235,
+					235,
 				},
 				font_size = 14,
 				font_type = "proxima_nova_bold",
