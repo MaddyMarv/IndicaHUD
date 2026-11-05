@@ -2,6 +2,25 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 
 [b]Works with:[/b] The Ability Bar needs [url=https://www.nexusmods.com/warhammer40kdarktide/mods/673]Combat Ability Timers[/url]. Optional: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/635]Player State Indicators[/url] adds status icons (downed, netted, pounced and more) to the player panels, and State Your Name formats the names on the hub portraits.
 
+[b]The full look:[/b] IndicaHUD works on its own, but my screenshots also use the mods below. Without them, the full look won't be 100% the same.
+
+[b]Mods used for the full look:[/b]
+[spoiler]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/990]Transparent Bot Hud[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1019]Enemy Outlines[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/447]Markers Improved All-in-one[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1035]Objective Tracker[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/110]DynamicCrosshair[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/14]Numeric UI[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/154]HUD Tweaker[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1091]Custom HUD[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/654]Broker Stim Timer (Hive Scum Stim Timer)[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1367]Peril Simplified[/url]
+
+Plus Combat Ability Timers, Player State Indicators and State Your Name from above.
+[/spoiler]
+
 [b][size=4]Installation Instructions[/size][/b]
 
 HUD Studio mods don't add anything to your screen by themselves - you need to open the HUD Studio editor, open the Library, and pick which elements you want. HUD elements in the mod are called [b]Blocks.[/b] 
