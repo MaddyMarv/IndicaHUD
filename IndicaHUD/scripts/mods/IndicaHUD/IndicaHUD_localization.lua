@@ -8,6 +8,9 @@ return {
 	tab_general = {
 		en = "General",
 	},
+	general = {
+		en = "General",
+	},
 	show_welcome_msg = {
 		en = "Show chat hint on load-in",
 	},
