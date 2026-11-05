@@ -12,6 +12,7 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/14]Numeric UI[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/937]Better Buff Management[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1454]BuffOut[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/511]Better HUD Info View[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/990]Transparent Bot Hud[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/631]Color Selection[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/827]Better Nameplate[/url]
@@ -22,6 +23,9 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 [b]Combat Info[/b]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/143]Kill Tracker[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/70]Killfeed Improvements[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/581]Player Deathfeed[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1126]Companion Killfeed[/url]
+- [url=https://www.nexusmods.com/warhammer40kdarktide/mods/508]Captain KillFeed[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1367]Peril Simplified[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/654]Broker Stim Timer (Hive Scum Stim Timer)[/url]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1035]Objective Tracker[/url]
@@ -42,6 +46,8 @@ IndicaBunny the smoking bnuuy's official HUD for Darktide. Adds a library of rea
 
 [b]Social[/b]
 - [url=https://www.nexusmods.com/warhammer40kdarktide/mods/1030]Vox Chat[/url]
+
+Also worth a mention: [url=https://www.nexusmods.com/warhammer40kdarktide/mods/887]VT2 Scoreboard[/url] for the end-of-mission stats.
 
 Plus Combat Ability Timers, Player State Indicators and State Your Name from above.
 [/spoiler]
