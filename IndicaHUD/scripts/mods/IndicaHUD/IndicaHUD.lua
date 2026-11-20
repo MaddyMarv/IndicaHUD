@@ -20,7 +20,9 @@ mod.on_all_mods_loaded = function(...)
 	end
 
 	local hud_studio = get_mod("hud_studio")
-	local blocks = hud_studio and hud_studio.register_blocks and mod:io_dofile("IndicaHUD/hud_studio_blocks/hud_studio_blocks")
+	local blocks = hud_studio
+		and hud_studio.register_blocks
+		and mod:io_dofile("IndicaHUD/hud_studio_blocks/hud_studio_blocks")
 	if blocks then
 		hud_studio.register_blocks(mod, blocks)
 	end
